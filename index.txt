@@ -59,9 +59,9 @@ This PGP signed document proves the following:
 
 - ---------------
 
-This document was created:      2025-01-18 01:08:01
-This document was last updated: 2025-01-18 01:08:01
-This document is valid until:   2025-05-24
+This document was created:      2025-01-18 00:28:03
+This document was last updated: 2025-01-18 01:16:53
+This document is valid until:   2025-05-24 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
 
@@ -86,18 +86,18 @@ You can find a history of this document here:
 ~nex (she/it)
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeK/vEiHGI1OTM3NjRA
-bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton5VxEACQXVRVwz1T
-RpDkZeFMDpyf4yqSqaMX380TWY3M5/LYEW7jDXYLAlV8grQC7OxWiUftluCsirQd
-z8YPRBH9PDY2+Gqa6139XFxsno9rLYJN1DT3IOScxhLiT8TEHFENKZMcGazRl+3E
-3aUHb3lIGqqbBssOwlMUlRiMZslmvCufTofh+XMZLyDBCysaq/ZIUuL61YH+Jijz
-asjvNfLCBI5OsDiDVnek1cfJU/52852tvxcI/066Zr9O8EkPhx8Lgpnm/PliD2c3
-AzkZUYlwatup9rlKIFxnWeo9Z7LgWfQKS48oTeUG9KDvwRU/if4Eb1ZpfkC+Kk0g
-qxcdx8mna10s37QnUMY6P933BHzkF+/ru/IoBBzslYNiEew6OU02m9erseTuO/3g
-pmuI+eieJ6UTKwlbQpJfbK2e9UUsl1ueRlMLlEZwEWaSC5s9VhO7KSCSpNgIdDm3
-BRPuvz3KymPqBRAJiFLdHuRG2NAm5brBp6ACj36+T37bykvq8a3og1qIez6D1+dG
-WoDzb/w1JC+tC0OAhEugpddhJX/gczIRDDc1NHBRWFbBTe7zDpBRmfqay9h6ix4V
-j0Rv3jX3w5z+qPssULFZYJS0WBQGlRW80xxwdhXAZprHlEImNbkdAqCfu5iG6PDX
-tq8P3o37GyWYoG/LLvfRV7gpBUZn4YzHhw==
-=c8TM
+iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeLAQUiHGI1OTM3NjRA
+bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton5ThD/9hkIXXRmAF
+BT/XgEirLncYLldujkVnJu2gmRXRREqxIoGXu6AkzKKaoK3sXYIYSpr+SUEpbIb/
+ZR3IRftqIbTUzGshtICfheeNUVk5hnDnCSqIuLlhQmcN8TUuCIfqHlDAvlxAqQUk
+qdjJDN55tDFrAMsEcYhBzY1YB2Nh0Yp18wW0ppFipL1mtSQwsIw6ZI0QcZocFtzp
+36eA5Z3Nx+3p5DKvgCARDNQ+3h7/PMI3zfu4Hghg9PP57o+zdJP/HinA+/bRaD2c
+SLLn0xWoRjXwAaPCvM49wMctoWl1iI9RsP1ue6k5KMNnsU0MDovXTqKVPLTt8Fdw
+CplAj1v4XCGACJYjI+YwiZvYnkW6w93TNhsqMFggJ1QgowhsgoAgAkl1Yl55ABww
+f7Av4EJbkrJWOpoe5jbAzUWxIDzDUwDbGnAdXuJUiNbLFbP05uif55g2V7tNuErA
+c+S2/ocHWxcgMDKA8KO9c0tTxZS2ePfAWrXMyg6eEmowCyW+PqR+7veAHB3IaVb8
+Fe0HC41ueuW4CPPNDJeWqxJRwz+VXq+I8VO87VQdI0UmAmesSdB3Py/feZt85IBV
+SOhhXY0p5HHoHjbCZ6opYc+NcYAtPgNDHs6IPIOtOJMqHvt8tt15FCNlotNNFYTd
+9CKcYwzGDa1+Ovj3ETdNdFYmzEDzQG8fbQ==
+=Qdw3
 -----END PGP SIGNATURE-----
