@@ -78,6 +78,6 @@ You can find a history of this document here:
 * https://codeberg.org/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
 * https://git.gay/nex/proof/commits/branch/dev/PROOF-signed.txt
 * https://git.nexy7574.co.uk/nex/proof/commits/branch/dev/PROOF-signed.txt
-* https://github.com/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
+* https://github.com/nexy7574/proof/commits/dev/PROOF-signed.txt
 
 ~nex (she/it)
