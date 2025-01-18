@@ -56,9 +56,9 @@ This PGP signed document proves the following:
 
 ---------------
 
-This document was created:      $date
+This document was created:      2025-01-18 00:28:03
 This document was last updated: $date
-This document is valid until:   2025-05-24
+This document is valid until:   2025-05-24 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
 
