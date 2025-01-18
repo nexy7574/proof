@@ -11,3 +11,9 @@ gpg -u me@nexy7574.co.uk --clearsign --output $PROOF_FILE <(echo "$FORMATTED")
 cp $PROOF_FILE index.txt
 git add index.txt $PROOF_FILE
 git commit -S -m "Update proof: $NOW"
+git branch -f pages dev
+
+# push?
+if [ "$1" == "--push" ]; then
+  git push
+fi
