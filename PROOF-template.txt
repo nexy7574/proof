@@ -46,6 +46,13 @@ This PGP signed document proves the following:
 10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
+11. I own and control all of the email addresses under nexy7574.co.uk and i-am.nexus.
+12. I own and control the bluesky (bsky.app) account: @nexy7574.co.uk
+13. I own the fediverse account: @nex@fedi.transgender.ing
+  a. I previously made use of: @nexy7574@tech.lgbt, @nex@m.nexy7574.co.uk
+14. I own, control, and receive funding at the following ko-fi account: nexy7574 <https://ko-fi.com/nexy7574>
+15. I own the following Monero wallet address: 455PQBSo8o6G5X7BsJmk8eNjXsCsoqpjwTou7yt8bQtsSGAWmV2DdG3UYw1wVf4pmZZKhwVegk8RhcvUfGPVe5ne8EZenB6
+16. I own and control the following Virtual Private Servers: cloud.nexy7574.co.uk <128.140.107.126>, cloud.nexy7574.co.uk <2a01:4f8:1c1e:a4f6::1>
 
 ---------------
 
