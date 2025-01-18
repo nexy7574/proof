@@ -59,8 +59,8 @@ This PGP signed document proves the following:
 
 - ---------------
 
-This document was created:      2025-01-18 00:56:24
-This document was last updated: 2025-01-18 00:56:24
+This document was created:      2025-01-18 01:06:56
+This document was last updated: 2025-01-18 01:06:56
 This document is valid until:   2025-05-24
 
 This document may be updated sooner if changes are relevant.
@@ -76,23 +76,28 @@ Please update my PGP via WKD annually.
 
 - ---------------
 
-You can find a history of this document here: https://codeberg.org/nexy7574/proofs/src/branch/dev/PROOF-unsigned.txt
+You can find a history of this document here: 
+
+* https://codeberg.org/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
+* https://git.gay/nex/proof/commits/branch/dev/PROOF-signed.txt
+* https://git.nexy7574.co.uk/nex/proof/commits/branch/dev/PROOF-signed.txt
+* https://github.com/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
 
 ~nex (she/it)
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeK/DgiHGI1OTM3NjRA
-bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton0HyEACYQmDnuOod
-jnTdT03ixV/X+zuyptqNFIRWjejz71AEASrX7WrIFEWJ/kkrxxyiFLeElsiYCzoB
-Rw4bmNxrjZjP1RgpxEx6cLfTlq5JZjwntSmGe34I30O4zmNCqquVe+FMJHL2PU9r
-RXR+GiNJ3lmZTsPt2RgB97ZQA/AvJanL6io0F+VhPysf5krsNizIKXY0DokYlrMp
-JotMD17Oe67Lockl8NEsjvF3TkNCxAX8wpoT3qtbIAhPyoNQ/KxcSC/gfwm8Ccd/
-oN0UVOMix4FCbjQOEvbGz6cA9p/UN+mE4QuOrpdlFaNykViKikXlWvtbUrqXroub
-QRC46Q7958O2z06PtKIk2mWOqr0KSCQ0NgG4K7Xjt5WuZigx8HSdhFDk9JsM6UWB
-FiXFeMdAuOYwxyMz6SF84l5tPvoFwUNxL84LtYo6oGRgdWwYO35PGRJPY4xKvC6h
-zUq4sCpyYYt4Y7sDMfspZ/0luOBpAKnkYECxfC7i4t7Ma1a/t0ssT4LvI3+vpD8l
-enOSirpTD4i+Ok8UJc7utBkhATxKcysMty0E58r3on7XJYAyOD4j2Y7iR3a4Igzd
-sJYbZF8Xj3Ys0GBu+r9e/3GlrZMz0OVUY8lXcAwhLdIehhEZkqT5foYuACUq9Mke
-n3c3JrN6zRG7nGCe7ANqelzLPSry6UnpPg==
-=GZbG
+iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeK/rAiHGI1OTM3NjRA
+bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton1/wD/9AKvJ0Woqj
+4W0K4ggr/JBadoJnPNSatY1bWBBaSy5pv9H8DlntYqcU/m8grHwX10hGEczx1I6y
+6ifu7gbOTOe7Q0PS7DKXWVTVcIGkKdMLPmyJkYmdogEEV3LeruY6QF6T4AfmqO54
+/cQX7Pa5dHeRYur6mCcTSMF1MzhEotP2/pd0cKH8Ou0Lnsb8FjwA4B6JRud4ZDfA
+SreWjN2Rpo4NW/DYgFY4WKcz/Zh0Y3OcQ1qnncdruLHIAb3q8IrDq984gKW55IRs
+s51iaaYC1SW0G26eQhusgFsVhoLR9D44nlN0ifRg0d3kbZLXTQUKfc/srVV5/L1B
+QHfSgfpPOUVAb9/8v2kS3wJS2QtBW4r5f9KWKQSxY8yyxWa6+v23IAOLt1gixhq0
+oYI61vRyKDv9LMiTTiNqvYwVM0yBZIL0VzHxajXDB52jTEKzahuVAm3xY7Chqbmn
+tESNXg/n5K7HcsrpTfTyixzYrvybTH44miAWPgLy1Lvc8Kop2QZahVvmgr+AacMA
+tuqwOjX0HE0M0PpO9PHQ6e/194qwllyCrWRmZ7MVNRhSYNn454QT5QIety+vjcBU
+Y9l/rIS1sYkC1VYsSkAxyg/YUVWbQBJUiYXojlr/QDW2HwXaxlDjcXKGVa8KWGmA
+aQ/lqu1v5b+v8C9vq22/FyqVA6w3HNJ66w==
+=HklA
 -----END PGP SIGNATURE-----
