@@ -73,6 +73,11 @@ Please update my PGP via WKD annually.
 
 ---------------
 
-You can find a history of this document here: https://codeberg.org/nexy7574/proofs/src/branch/dev/PROOF-unsigned.txt
+You can find a history of this document here: 
+
+* https://codeberg.org/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
+* https://git.gay/nex/proof/commits/branch/dev/PROOF-signed.txt
+* https://git.nexy7574.co.uk/nex/proof/commits/branch/dev/PROOF-signed.txt
+* https://github.com/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
 
 ~nex (she/it)
