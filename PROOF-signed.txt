@@ -49,11 +49,18 @@ This PGP signed document proves the following:
 10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
+11. I own and control all of the email addresses under nexy7574.co.uk and i-am.nexus.
+12. I own and control the bluesky (bsky.app) account: @nexy7574.co.uk
+13. I own the fediverse account: @nex@fedi.transgender.ing
+  a. I previously made use of: @nexy7574@tech.lgbt, @nex@m.nexy7574.co.uk
+14. I own, control, and receive funding at the following ko-fi account: nexy7574 <https://ko-fi.com/nexy7574>
+15. I own the following Monero wallet address: 455PQBSo8o6G5X7BsJmk8eNjXsCsoqpjwTou7yt8bQtsSGAWmV2DdG3UYw1wVf4pmZZKhwVegk8RhcvUfGPVe5ne8EZenB6
+16. I own and control the following Virtual Private Servers: cloud.nexy7574.co.uk <128.140.107.126>, cloud.nexy7574.co.uk <2a01:4f8:1c1e:a4f6::1>
 
 - ---------------
 
-This document was created:      2025-01-18 00:46:32
-This document was last updated: 2025-01-18 00:46:32
+This document was created:      2025-01-18 00:56:24
+This document was last updated: 2025-01-18 00:56:24
 This document is valid until:   2025-05-24
 
 This document may be updated sooner if changes are relevant.
@@ -74,18 +81,18 @@ You can find a history of this document here: https://codeberg.org/nexy7574/proo
 ~nex (she/it)
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeK+egiHGI1OTM3NjRA
-bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton5qsD/9OciKwf5HQ
-eDvsWG9cMk6+SUNChMbvxSDFm4PoLYfKPHkb7QBjRFn7xaRVxJI08bVOL1M03Xm1
-gjH6rOPG8fgJj704ch29nJGJKkZbYGlVZAugPvFz40B/i8TwpGlmImKVu1gduZFD
-0JohcbHKO8zYhyCYRfyKftBObVogOZxfUXsoFqAp9tKd2gY3lsw9XqHa6aMJUg9I
-Bv5dk5pmtdTIsXQ5MJi6OnOpfizI+pSJYQU1nUObXDx+kl30U+dw1bpbIlJQfGwc
-fvdoUF/btbNRebamM9tvXs2EvE0/nCrrEk08mlUYI8Xlz+m2NlHuHVq71L3dL786
-LSC/O249Ok3VvJsO5lzleaOxyHsehCeFBWYU3rg7UR5jOv/qljMf86CMAgx91wae
-O5E67xycUY6Wm1DTZZtbBdUHy4qq4CD3s9cgNS6F743VeVFu8E5WIM1YPdVWDh6S
-6Ja+17E20cqbIfEhX76cfVoF9fx89L0EvZQm8Y9W4wOYviTKCm+Epdi1n3ejEEp4
-rGZkpRbF8nwFbLiqL/xqZlue1dSyNvntsoTj45+trGVNagbdtZDvtOsa/JTCwsb5
-eAVBFXmqmxH5hwFsZGNzyQSpnbmXXJmbwBTymZBgdD5j7YxxuUZeBVJZy13VIY0g
-Xo/80GcalyM+WyU4Vjbr2SCvK7YixqEckA==
-=SgT3
+iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeK/DgiHGI1OTM3NjRA
+bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton0HyEACYQmDnuOod
+jnTdT03ixV/X+zuyptqNFIRWjejz71AEASrX7WrIFEWJ/kkrxxyiFLeElsiYCzoB
+Rw4bmNxrjZjP1RgpxEx6cLfTlq5JZjwntSmGe34I30O4zmNCqquVe+FMJHL2PU9r
+RXR+GiNJ3lmZTsPt2RgB97ZQA/AvJanL6io0F+VhPysf5krsNizIKXY0DokYlrMp
+JotMD17Oe67Lockl8NEsjvF3TkNCxAX8wpoT3qtbIAhPyoNQ/KxcSC/gfwm8Ccd/
+oN0UVOMix4FCbjQOEvbGz6cA9p/UN+mE4QuOrpdlFaNykViKikXlWvtbUrqXroub
+QRC46Q7958O2z06PtKIk2mWOqr0KSCQ0NgG4K7Xjt5WuZigx8HSdhFDk9JsM6UWB
+FiXFeMdAuOYwxyMz6SF84l5tPvoFwUNxL84LtYo6oGRgdWwYO35PGRJPY4xKvC6h
+zUq4sCpyYYt4Y7sDMfspZ/0luOBpAKnkYECxfC7i4t7Ma1a/t0ssT4LvI3+vpD8l
+enOSirpTD4i+Ok8UJc7utBkhATxKcysMty0E58r3on7XJYAyOD4j2Y7iR3a4Igzd
+sJYbZF8Xj3Ys0GBu+r9e/3GlrZMz0OVUY8lXcAwhLdIehhEZkqT5foYuACUq9Mke
+n3c3JrN6zRG7nGCe7ANqelzLPSry6UnpPg==
+=GZbG
 -----END PGP SIGNATURE-----
