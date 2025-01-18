@@ -1,0 +1,71 @@
+This PGP signed document proves the following:
+
+1. This document is authentic and to be trusted
+2. I own and will continue to own (for the forseeable future) the following domains: nexy7574.co.uk, i-am.nexus, nio-bot.dev, transgender.ing, nexy7574.uk, nexy.blog
+3. I own the following domains that I do not *plan* to renew:
+  a. leedsshitty.college - expires 2025-02-24
+  b. 2102x.uk - expires 2025-04-16
+  c. torrentzworld.com - expires 2025-04-21
+  d. nixy7574.co.uk - expires 2025-09-09
+  e. is-piss.ing - expires 2025-10-18
+  f. nexy7574.link - expires 2026-12-19
+4. I have historically owned, and no longer control (could not find a concrete date for expiration for historical entries):
+  a. yourapps.cyou - expired (approximately) 2023-08-18
+  b. dragdev.xyz - expired (approximately) 2023-12-09
+  c. howmuchdoesthesims4cost.lol - expired (approximately) 2024-08-31
+  d. pee.pics - expired (approximately 2024-12-10)
+5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication, and signing.
+6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication, and signing.
+7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
+  a. @nex:nexy7574.co.uk
+  b. @nex:transgender.ing
+  c. @nex:is-piss.ing
+  d. @nex:grapevine.transgender.ing
+  e. @nex:conduit.nexy7574.co.uk
+  f. @nex:construct.nexy7574.co.uk
+  g. @nex:synapse.nexy7574.co.uk
+  h. @nex:dendrite.nexy7574.co.uk
+8. I own and control the trusted sessions of the following Matrix accounts (hosted by third parties):
+  a. @nex:constellatory.net
+  b. @nex:converser.eu
+  c. @nex:envs.net
+  d. @nex:fortniteballs.download
+  e. @nex:isekai.rocks
+  f. @nex:pissing.dev
+  g. @nex:reallyaweso.me
+  h. @nex:squarebowl.club
+  i. @nexy7574:matrix.org
+9. I operate and am responsible for the security of the following automated Matrix accounts:
+  a. @draupnir:nexy7574.co.uk
+  b. @autopin:nexy7574.co.uk
+  c. @exif-exterminator:nexy7574.co.uk
+  d. @nonsensebot:nexy7574.co.uk
+  e. @nonsensebot.staging:nexy7574.co.uk
+  f. @urldl:nexy7574.co.uk
+  g. @draupnir.staging:synapse.nexy7574.co.uk
+10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574. Additional accounts may not be listed here.
+  a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
+     Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
+
+---------------
+
+This document was created:      $date
+This document was last updated: $date
+This document is valid until:   2025-05-24
+
+This document may be updated sooner if changes are relevant.
+
+---------------
+
+[1]: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqk+0tSp1dm8ALhcxRjkurj3y/3rN9SOHquNHVk+xXZIOUTXjWSgXclrlsHH2562VgeBx8ZxJFkX04jMb3wkPHNL794troX4LX17X0j5ixBK76vPGMuzG0/VU6oLwl3S2Zkuz6q3d3oGj6+qemLhQF6qRZ+ByTkhoQu22Jc6QYpk0o6lMF1kabkS496LxBD8JlAGBT4DsdHem3dDUwvAWseNEs3gJHOup9T43Iw3pKpZYrfISBxhkehojtsMNFziL+pX2rYZHxwoMAiaD9LKlhFsZgND2bMYFJ0WODycAwkrhEMwEVoEWNtlYeqadRZpCSA1ta1Rz9souovTkV2Kbov522eHuIVlu1uWNENiM+fEtP36QEMnZago0FgUBpfijh8LNjN/SR5aOeyn2Nw9pjQP3ZSjmFe2lFz88E092HwrAczc6gGb/tCH4DcTBwyna6AQFHFFw1QcW9rer5kjYnFpZGjmXBBnSFg8lDy3AhGdUSJfELS3ESA0pyAWk7Nr0=
+
+[2]: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILf4WiyLVNQeCdAB/o8WjV8yH0tw+227gbLbpzNSbVzU
+
+[PGP key]: 178E7758DAEED8D64F6E17870FA334385D0B689F - primarily me@nexy7574.co.uk.
+Please update my PGP via WKD annually.
+
+---------------
+
+You can find a history of this document here: https://codeberg.org/nexy7574/proofs/src/branch/dev/PROOF-unsigned.txt
+
+~nex (she/it)
