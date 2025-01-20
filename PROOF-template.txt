@@ -35,6 +35,8 @@ This PGP signed document proves the following:
   g. @nex:reallyaweso.me
   h. @nex:squarebowl.club
   i. @nexy7574:matrix.org
+  j. @nexy7574:tchncs.de
+  k. @nex:nope.chat
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @draupnir:nexy7574.co.uk
   b. @autopin:nexy7574.co.uk
@@ -42,7 +44,8 @@ This PGP signed document proves the following:
   d. @nonsensebot:nexy7574.co.uk
   e. @nonsensebot.staging:nexy7574.co.uk
   f. @urldl:nexy7574.co.uk
-  g. @draupnir.staging:synapse.nexy7574.co.uk
+  g. @draupnir.dev:synapse.nexy7574.co.uk
+  h. @nowonsensebot:transgender.ing
 10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
