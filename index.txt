@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 This PGP signed document proves the following:
 
@@ -22,24 +22,12 @@ This PGP signed document proves the following:
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
   a. @nex:nexy7574.co.uk
   b. @nex:transgender.ing
-  c. @nex:is-piss.ing
-  d. @nex:grapevine.transgender.ing
-  e. @nex:conduit.nexy7574.co.uk
-  f. @nex:construct.nexy7574.co.uk
-  g. @nex:synapse.nexy7574.co.uk
-  h. @nex:dendrite.nexy7574.co.uk
+  c. @nex:synapse.nexy7574.co.uk
+  d. @nex:dendrite.nexy7574.co.uk
 8. I own and control the trusted sessions of the following Matrix accounts (hosted by third parties):
-  a. @nex:constellatory.net
-  b. @nex:converser.eu
-  c. @nex:envs.net
-  d. @nex:fortniteballs.download
-  e. @nex:isekai.rocks
-  f. @nex:pissing.dev
-  g. @nex:reallyaweso.me
-  h. @nex:squarebowl.club
-  i. @nexy7574:matrix.org
-  j. @nexy7574:tchncs.de
-  k. @nex:nope.chat
+  a. @nex:envs.net
+  b. @nexy7574:matrix.org
+  c. @nex:transfem.dev
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @draupnir:nexy7574.co.uk
   b. @autopin:nexy7574.co.uk
@@ -63,7 +51,7 @@ This PGP signed document proves the following:
 - ---------------
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-01-20 01:28:24
+This document was last updated: 2025-01-29 00:38:38
 This document is valid until:   2025-05-24 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -75,7 +63,7 @@ This document may be updated sooner if changes are relevant.
 [2]: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILf4WiyLVNQeCdAB/o8WjV8yH0tw+227gbLbpzNSbVzU
 
 [PGP key]: 178E7758DAEED8D64F6E17870FA334385D0B689F - primarily me@nexy7574.co.uk.
-Please update my PGP via WKD annually.
+Please update my PGP via WKD annually, only using the Ubuntu keyserver as a last resort..
 
 - ---------------
 
@@ -89,18 +77,18 @@ You can find a history of this document here:
 ~nex (she/it)
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeNprgiHGI1OTM3NjRA
-bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQtonypPD/0VRjTOoay5
-ii0/NTJ48sF8BMGewD28QCALho3f/cV9od60KNtyqXjPmpPpsxpPzPbxYe8iOK/c
-8czGy/aYdLMHpooBxjJqywxPNNMxWYf0J7Qtk1rWHU5Bxbgop/8Q9M4F1QTEgLr/
-xOmlJfGZur+TOZnUT8VWcccfHbba9mGQrQIFAyIHTS51SPXG32GJRSa1ulyfuLDb
-Y0VUHuLd2blnNu5PmmeAqQ9haozapKTWSOyoOaQSq7NJmBo/HmDiUXKk+6mYN7TN
-Q4edHePskbr0lxIKuO5MkivwU/ykpxMyJ/zrTzfDMGSsPGiWuc8nBW1JSOR2fwI8
-VLgSnPGiu4bEqB9/bEwibeGDtgL6hNdhfznhlEcEQbGMmwL2HzyeWaOSidhZiZmO
-pFs0LGbxMiywgyqOSUq7sDmOtnaif9am7BYi0oUbyHLnHp4MMN29BY9vCYPgde2A
-8rEk7T3vZglChBOG0wZ/cQCHDjnTu0rzfVJzrHO2HqVPe6nLN95uQG3383qAw0V1
-wRRzpq2GeaPiVCR1zn9wKmzpUMzhuEA56u99YdcSExcjetkG43RrXiNUJEmCnauQ
-8gFTTzR/fr1KDs45bqhSxFQn0ps7tAOgujNugOffIC5wvSKBDmAW5XajLcVncZsF
-c869u0ADzXXAcL9YBOxKTb3a/9w8OloOHQ==
-=EWWX
+iQJGBAEBCgAwFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmeZeI4SHG1lQG5leHk3
+NTc0LmNvLnVrAAoJEA+jNDhdC2ifjJcP/RlqFYV/Depm/HH7JFoQ4xOalPZTvFhv
+5Q8ToqAb0JHJYrd0Iq8WJI5EcoSPsl+9EC2eBOh1pyXa36jqgzRSmrzu8yLD1Yhn
+OlExGZkUs3wvyWcP48trge7kyFN5ZBwnoAA4rPrxwC293u2MG7zV9KMy1qHzXdI6
+07ruDB0/eZKQMU7BFy9aMy7fpwDf/7oDhiYqYzfZWfb0o6GSigeN5Ao/LzGQB+46
+m/l20P5yt3TDV96qogZvc9mzI+POOHXm7XncAsDPA5vTnNmTPxPAV+zHdoIKbHqv
+iDEG99KUkdIDk6IVutiED+tzr0t2xunBE+ZwJpeNoqlT92SCnA0llFOx0o/suUM4
++CF3omqSV/7khEhn9QX2Hvqjs9Xi1P1LfDhvb7kPJqSsbisuxPAJHfzXcJ/CWllw
+5h6l3rP7hS6w2Vta3rO3RE147Cp0D0CfTUyTwJQAQA829IG3LrmwuMbK2RuRO9Lm
+Bscv1jxDSyG0MF+zAxelfEJG7/cRVm6xJN1dnOs+o3hYF1H4Qj1HEjXBRJ+DxoBm
+rBC5Hdds0RHewhHhla2tSs3baqkyBL7iWZ8XnGHkveTNchZ7WldjYFKw4L4vZJ30
+LtZ1iEUhOL6ui9Cwuv7WNR7q8dzv0GmDWpCxMnWEnRfKICDf7XKxohCZ+4M4W5i1
+9lGBhlPROP/D
+=PEAV
 -----END PGP SIGNATURE-----
