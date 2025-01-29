@@ -19,24 +19,12 @@ This PGP signed document proves the following:
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
   a. @nex:nexy7574.co.uk
   b. @nex:transgender.ing
-  c. @nex:is-piss.ing
-  d. @nex:grapevine.transgender.ing
-  e. @nex:conduit.nexy7574.co.uk
-  f. @nex:construct.nexy7574.co.uk
-  g. @nex:synapse.nexy7574.co.uk
-  h. @nex:dendrite.nexy7574.co.uk
+  c. @nex:synapse.nexy7574.co.uk
+  d. @nex:dendrite.nexy7574.co.uk
 8. I own and control the trusted sessions of the following Matrix accounts (hosted by third parties):
-  a. @nex:constellatory.net
-  b. @nex:converser.eu
-  c. @nex:envs.net
-  d. @nex:fortniteballs.download
-  e. @nex:isekai.rocks
-  f. @nex:pissing.dev
-  g. @nex:reallyaweso.me
-  h. @nex:squarebowl.club
-  i. @nexy7574:matrix.org
-  j. @nexy7574:tchncs.de
-  k. @nex:nope.chat
+  a. @nex:envs.net
+  b. @nexy7574:matrix.org
+  c. @nex:transfem.dev
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @draupnir:nexy7574.co.uk
   b. @autopin:nexy7574.co.uk
@@ -72,7 +60,7 @@ This document may be updated sooner if changes are relevant.
 [2]: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILf4WiyLVNQeCdAB/o8WjV8yH0tw+227gbLbpzNSbVzU
 
 [PGP key]: 178E7758DAEED8D64F6E17870FA334385D0B689F - primarily me@nexy7574.co.uk.
-Please update my PGP via WKD annually.
+Please update my PGP via WKD annually, only using the Ubuntu keyserver as a last resort..
 
 ---------------
 
