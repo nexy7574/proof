@@ -7,7 +7,6 @@ This PGP signed document proves the following:
 2. I own and will continue to own (for the forseeable future) the following domains: nexy7574.co.uk, i-am.nexus, nio-bot.dev, transgender.ing, nexy7574.uk, nexy.blog
 3. I own the following domains that I do not *plan* to renew:
   a. 2102x.uk - expires 2025-04-16
-  b. torrentzworld.com - expires 2025-04-21
   c. nixy7574.co.uk - expires 2025-09-09
   d. is-piss.ing - expires 2025-10-18
   e. nexy7574.link - expires 2026-12-19
@@ -18,6 +17,7 @@ This PGP signed document proves the following:
   c. howmuchdoesthesims4cost.lol - expired (approximately) 2024-08-31
   d. pee.pics - expired (approximately 2024-12-10)
   e. leedsshitty.college - expired 2025-02-24
+  f. torrentzworld.com - expired 2025-04-01
 5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication, and signing.
 6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication, and signing.
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
@@ -32,16 +32,12 @@ This PGP signed document proves the following:
   b. @nexy7574:matrix.org
   c. @nex:transfem.dev
   d. @nexy7574:beeper.com
+  e. @nex:calitabby.net
 9. I operate and am responsible for the security of the following automated Matrix accounts:
-  a. @draupnir:nexy7574.co.uk
-  b. @autopin:nexy7574.co.uk
-  c. @exif-exterminator:nexy7574.co.uk
-  d. @nonsensebot:nexy7574.co.uk
-  e. @nonsensebot.staging:nexy7574.co.uk
-  f. @urldl:nexy7574.co.uk
-  g. @draupnir.dev:synapse.nexy7574.co.uk
-  h. @nowonsensebot:transgender.ing
-  i. @sensebot:nexy7574.co.uk
+  a. @moderator:nexy7574.co.uk
+  b. @nonsensebot:nexy7574.co.uk
+  c. @nonsensebot.staging:nexy7574.co.uk
+  d. @1f440:nexy7574.co.uk
 10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
@@ -55,8 +51,11 @@ This PGP signed document proves the following:
 
 - ---------------
 
+You should NEVER trust an account claiming to be me, unless either this SIGNED AND IN-DATE document lists the account, or a document of appropriate authority can be
+produced with a valid PGP or SSH signature. When in doubt, rely on this list.
+
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-03-13 19:02:13
+This document was last updated: 2025-04-14 00:44:52
 This document is valid until:   2025-05-24 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -82,18 +81,18 @@ You can find a history of this document here:
 ~nex (she/it)
 -----BEGIN PGP SIGNATURE-----
 
-iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmfTK7UiHGI1OTM3NjRA
-bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQtonw0kEACZiuoVLe7+
-5MIpCi6jbcZn0ksSVOYJhXLp649LNb/ocD/eQRKgppNnHXaMgwVGJgcTO1vQ4G6i
-qLs5vP4YDUtxMbyuam6GygQf0ssp6qDH89kLHf6Heu8bFl75kk8+w1e6WDt9w1ES
-nINzgaGSBR6DFhO9aev4yecOQA6wb7J/n9JXvzOvRPvcvZnntNqC/tPKCjhv9DJM
-5QOLYWpZGIDjZgXuuWbQ4k7aJ9xIYUv6wxyh8Yd4RB0d9sUrC++srfbdItnBWmqk
-ZMPbioTENh3k6OX6hrxHQav1PE8R93RX5jPXMPCGlNFqMotGueQUt5epa1rkBulo
-6cu9s07+Ix05T0VRnomkPS5m2dWeEP6H1pvPMlS0x7/L+K9vAoePUiOQXqGdxbfg
-jEkm9K9OksTn2Lv4JPgFMqawGmvStG3+9n2RWND+Pieo2xwOOpiAPSQMYfQse/GQ
-0gntyjsgtJDehkz9wC/o0cSAUkqraPyKkC9tOb8t4E4pgZ7if9eikHMdSKeBk44z
-SffwLaw7vETdE+d8taHSydjINdlbqBRzm0sLvUiHhpULm8ArDF5/qtTu7RRQTgNU
-x1tGlkvjCrMNwi+kZndjCxQPGLZyWPUaxdOSRtIjEMGhSFI5bGDEBc04xS65POwI
-3UBVYdhQVQYT4FP7909bpZA4eikQL81XYQ==
-=imb1
+iQJWBAEBCABAFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmf8WoQiHGI1OTM3NjRA
+bXkubGVlZHNjaXR5Y29sbGVnZS5hYy51awAKCRAPozQ4XQton56yD/9DcXQVnWxY
+1pfGJ/m1y22Hi+JfiViWzhW+CEesFzAiViLATFe0cXwgcZLA//7xVJaRtwsgoX13
+Fh2lem8zfdPp8dIG5XAx4B2ey2Sny5eDVlXi0WuemUR5ocT/7kPAd55TydBSGSUM
+9AvQHZWSlF+U8wSEsRYKp7+jVQSJjsV6gycXefJd1LhEXCWBfFp3AUAwY3fqxK1t
+e2JkbcNWld6rnBuLuZis4BhCgqrnR9KuGi0uXIN/as+6eo6/XlGDyVA1Frdk62h+
+A1QI8Sd95kselp4CSeupFOxzr/DU5I9EketsMzEgt55bswaB0iVaIEm+knQmhxKV
+pfzl1TVPfFd5hT5PByq3+1dVI9Xbh+zteHlxbrQI6vzbRCIjlmi0lRQ67KPb8CW9
+GefziKBmKVBvWXwtqX5MDpI0QtJJb9e7g9bHRdMl4LwNwqeEQ4d1G6L6EO6TB5l1
+auiQnpaUlHboR7rVOyrkCe6Nlo1picyVeGsjtB9kDdJ7De8EbHOGl4yzJHy3A3Eb
+hE7jZSVw1Q9mL/9N33lfdzEHRtfP7DbwCv6vkC9pECAXjKy0W8OPQgtOHcEhNFLD
+cx/siSlHRnAqL4BdOxKd4cp0v3mhDap8ivticbgIPmYvtNf+C2GdaU+gkIjcWtoN
+5PAK7adeTfhGsZPMTpo0+bAF8EFxq5wa1Q==
+=iKeh
 -----END PGP SIGNATURE-----
