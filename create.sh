@@ -15,5 +15,5 @@ git branch -f pages dev
 
 # push?
 if [ "$1" == "--push" ]; then
-  git push origin dev pages
+  git push --force origin dev pages
 fi
