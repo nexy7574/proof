@@ -1,38 +1,48 @@
-This PGP signed document proves the following:
+This PGP signed document proves the following (unless - see footer):
 
 1. This document is authentic and to be trusted
-2. I own and will continue to own (for the forseeable future) the following domains: nexy7574.co.uk, i-am.nexus, nio-bot.dev, transgender.ing, nexy7574.uk, nexy.blog, timedout.uk
+2. I own and will continue to own (for the forseeable future) the following domains: 
+  a. nexy7574.co.uk
+  b. nexy7574.uk
+  c. i-am.nexus
+  d. nio-bot.dev
+  e. transgender.ing
+  f. nexy.blog
+  g. timedout.uk
+  h. continuwuity.rocks
+  j. starstruck.systems
 3. I own the following domains that I do not *plan* to renew:
-  a. nixy7574.co.uk - expires 2025-09-09
-  b. is-piss.ing - expires 2025-10-18
   c. nexy7574.link - expires 2026-12-19
   d. i-am-yapp.ing - expires 2026-02-18
 4. I have historically owned, and no longer control (could not find a concrete date for expiration for historical entries):
   a. yourapps.cyou - expired (approximately) 2023-08-18
   b. dragdev.xyz - expired (approximately) 2023-12-09
   c. howmuchdoesthesims4cost.lol - expired (approximately) 2024-08-31
-  d. pee.pics - expired (approximately 2024-12-10)
+  d. pee.pics - expired (approximately) 2024-12-10
   e. leedsshitty.college - expired 2025-02-24
   f. torrentzworld.com - expired 2025-04-01
   g. 2102x.uk - expired 2025-04-16
+  h. nixy7574.co.uk - expired 2025-09-09
+  i. is-piss.ing - expires 2025-10-18
 5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication, and signing.
 6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication, and signing.
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
   a. @nex:nexy7574.co.uk
   b. @nex:transgender.ing
   c. @nex:synapse.nexy7574.co.uk
-  d. @nex:dendrite.nexy7574.co.uk 
-  e. @nex:conduit.nexy7574.co.uk (not federated)
-  f. @nex:harmony.nexy7574.co.uk
-  g. @nex:timedout.uk
-  h. @nex:maunapse.nexy7574.co.uk
+  d. @nex:harmony.nexy7574.co.uk
+  e. @nex:timedout.uk
+  f. @nex:continuwuity.rocks
+  g. @system:corellia.timedout.uk
+  h. @nex:corellia.timedout.uk
 8. I own and control the trusted sessions of the following Matrix accounts (hosted by third parties):
   a. @nex:envs.net
-  b. @nexy7574:matrix.org
+  b. @timedout:matrix.org
   c. @nexy7574:beeper.com
   d. @nex:calitabby.net
   e. @timedout:fedora.im
   f. @nex:continuwuity.org
+  g. @nex:beta.matrix.org
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @moderator:nexy7574.co.uk
   b. @nonsensebot:nexy7574.co.uk
@@ -41,9 +51,11 @@ This PGP signed document proves the following:
   e. @sensebot:synapse.nexy7574.co.uk
   f. @roomsearch:nexy7574.co.uk
   g. @moderator:timedout.uk
-10. I own and control the following git accounts: codeberg.org/nexy7574, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574, forgejo.ellis.link/nex. Additional accounts may not be listed here.
+  h. @modbot.*:corellia.timedout.uk
+10. I own and control the following git accounts: codeberg.org/timedout, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574, forgejo.ellis.link/nex. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
+  b. My codeberg username changed from `nexy7574` to `timedout` on 2025-06-06 22:24 UTC. See: https://codeberg.org/Codeberg-e.V./requests/issues/812#issuecomment-5026491
 11. I own and control all of the email addresses under nexy7574.co.uk and i-am.nexus.
 12. I own and control the bluesky (bsky.app) account: @timedout.uk (formerly @nexy7574.co.uk)
 13. I own the fediverse account: @nex@fedi.transgender.ing
@@ -51,8 +63,8 @@ This PGP signed document proves the following:
 14. I own, control, and receive funding at the following ko-fi account: nexy7574 <https://ko-fi.com/nexy7574>
 15. I own the following Monero wallet address: 455PQBSo8o6G5X7BsJmk8eNjXsCsoqpjwTou7yt8bQtsSGAWmV2DdG3UYw1wVf4pmZZKhwVegk8RhcvUfGPVe5ne8EZenB6
 16. I own and control the following Virtual Private Servers:
-  - cloud.nexy7574.co.uk <128.140.107.126>
-  - cloud.nexy7574.co.uk <2a01:4f8:1c1e:a4f6::1>
+  - cloud3.srv.timedout.uk <128.140.107.126/32> <2a01:4f8:1c1e:a4f6::/64>
+  - corellia.srv.timedout.uk <91.99.140.221/32> <2a01:4f8:c0c:63f0::/64>
 
 ---------------
 
@@ -78,11 +90,11 @@ Please update my PGP via WKD annually, only using the Ubuntu keyserver as a last
 
 ---------------
 
-You can find a history of this document here: 
+You can find a history of this document here:
 
+* https://git.nexy7574.co.uk/nex/proof/commits/branch/dev/PROOF-signed.txt (SOURCE)
 * https://codeberg.org/nexy7574/proof/commits/branch/dev/PROOF-signed.txt
 * https://git.gay/nex/proof/commits/branch/dev/PROOF-signed.txt
-* https://git.nexy7574.co.uk/nex/proof/commits/branch/dev/PROOF-signed.txt
 * https://github.com/nexy7574/proof/commits/dev/PROOF-signed.txt
 
-~nex (she/it)
+~nex (it/she)
