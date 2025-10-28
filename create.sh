@@ -1,5 +1,5 @@
 #!/bin/env bash
-set -e
+set -xe
 NOW=$(date -u +'%Y-%m-%d %T')
 TEMPLATE_FILE='PROOF-template.txt'
 PROOF_FILE='PROOF-signed.txt'
