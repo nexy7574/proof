@@ -2,7 +2,7 @@
 
 # Intended to set up this repository on a new machine, ready for pushing.
 set -e
-OTHER_REMOTES=("git@git.gay:nex/proof.git" "ssh://git@git.nexy7574.co.uk:222/nex/proof.git" "git@github.com:timedout/proof.git")
+OTHER_REMOTES=("ssh://git@git.gay/nex/proof.git" "ssh://git@git.nexy7574.co.uk:222/nex/proof.git" "ssh://git@github.com/nexy7574/proof.git")
 
 git remote remove origin || true
 git remote add origin git@codeberg.org:timedout/proof.git
