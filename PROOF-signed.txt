@@ -75,7 +75,7 @@ You should NEVER trust an account claiming to be me, unless either this SIGNED A
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-10-28 00:56:48
+This document was last updated: 2025-10-28 00:57:12
 This document is valid until:   2026-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -104,18 +104,18 @@ You can find a history of this document here:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFNAPHGdwZ0BpLWFt
-Lm5leHVzAAoJEA+jNDhdC2ifqmgQAJQ0x/Y2F8Pqzs+oO36Lf+ku7UFwHjNnctWR
-7f1C4NO9zO2og3aSy7xNIN+w63WHuZujUXydaxh3dkOVPyMG+WGFJAzeDazQFeXn
-odWzdWmX9JiKY0ICiturM83S83EhQiuqWBb08+Q//SaUvU5EUgrLrJACpWtyKxyw
-FuDH1q0G4Gnvl9DufxO1liRAOtNLQ8HK9QHu5bIV280RgWO2dX4QFmQ62tJGCbA3
-qoON6UhkaJtW/EAWOysOAKS0EqyHHdrmYwcicpx4vTTyl4cH8iIzeOeckL3mSpxt
-U8D/8k8vjcTQjaP9cPsXX9Z6wKcZLobE1w3NYJsdMmdvZvn0f+jNEsF8SH6zKvRU
-OdRBbKCPzW9KRW2F+khuWuFaFdpydrsXSDQx6NMJqk0NoXxzHnZLtV/8cMIWMbTH
-tV2L2j578D+iinZjGtoW44573YMEhhK5KOtOVbwFj/oRZgz0l5mGYXl5BgBY73eH
-QngMyI5QH1N+kkYcB5Er2q8sGPwcwkCWNoZzyHT1ZMlem08FFX29dia7+yGWZGU5
-6Ul3ruwqaHsVSDpCSXFlw1aHq+AxC0x/L/8OksYkfVxkzLAt9L7q/yQYawVBbZ/l
-CmtlqVdY+CYNKU9L+KMDiKQNkMS5wn464yjkSs5p+wRU36zx2bJtypYkCM7V1tr8
-Oth/hvNS
-=vTmx
+iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFOgPHGdwZ0BpLWFt
+Lm5leHVzAAoJEA+jNDhdC2ifh3QQAI6wbMHDk/v5Dz4G0eRnKLwFsM9uFhVZ7zrQ
+Wd5Umqj50zSaFkC3uz85x2W7+EXmQ8U0yOauKLrw8cJMuJ0rVf85IfMewbrloIwb
+/NJf2VliK+D66ePTA+vUaVMbgfHdeYxi3ijC952N0tYKdwMT9xilOknTt6TgTtKq
+DpDdwyHkpGjSV0EzDZtKB3Km1tZ6ESTsi2xq+3oQhk1mC/mkdd+phrro/TiAE3jr
+4oZCgJO9VUUDTXBkQmu1J6bVQL2ZxwI4uHqvRf/Cy0D0BOVKOG+/ex4Y7VUvGE1f
+bzh1pj0Oln3gDLRYrQskoCR6a1fruna2DMXfQklbGQ/wxCHrq0CpOheyP+REqZ17
+Et02QfzFyqZlw729FLjNIIenbCWAouesh/FKlT+Xq6rxc1fmdp/+ZeHWPydSwlvC
+cmucJ4gCnNgP1rnGF+kKLJ2Aefjz8SSwaCZhEIi97vrMsJEx5SYwCn0+0n7CXikA
+KRJYQgkPK2vgVzzcpf2P6/zaVfF6TvpklJEOhS2WPGsP2J2yiubcOwSDOpxHhWQW
+DsWJjNoOvpQV+NklKhMeGEflocSWey3AO5jIJe7bvDlokhbSOK9j1lLBHbyxLL3t
+wBhgIxc+itpfyA0ylHy4iM7pl2Ai+tSbFwUhZlKV3pkTx9FXA9CNE/wpJi0KovlX
+LoAV5kYc
+=HOMt
 -----END PGP SIGNATURE-----
