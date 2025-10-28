@@ -75,7 +75,7 @@ You should NEVER trust an account claiming to be me, unless either this SIGNED A
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-10-28 00:57:12
+This document was last updated: 2025-10-28 00:58:06
 This document is valid until:   2026-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -104,18 +104,18 @@ You can find a history of this document here:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFOgPHGdwZ0BpLWFt
-Lm5leHVzAAoJEA+jNDhdC2ifh3QQAI6wbMHDk/v5Dz4G0eRnKLwFsM9uFhVZ7zrQ
-Wd5Umqj50zSaFkC3uz85x2W7+EXmQ8U0yOauKLrw8cJMuJ0rVf85IfMewbrloIwb
-/NJf2VliK+D66ePTA+vUaVMbgfHdeYxi3ijC952N0tYKdwMT9xilOknTt6TgTtKq
-DpDdwyHkpGjSV0EzDZtKB3Km1tZ6ESTsi2xq+3oQhk1mC/mkdd+phrro/TiAE3jr
-4oZCgJO9VUUDTXBkQmu1J6bVQL2ZxwI4uHqvRf/Cy0D0BOVKOG+/ex4Y7VUvGE1f
-bzh1pj0Oln3gDLRYrQskoCR6a1fruna2DMXfQklbGQ/wxCHrq0CpOheyP+REqZ17
-Et02QfzFyqZlw729FLjNIIenbCWAouesh/FKlT+Xq6rxc1fmdp/+ZeHWPydSwlvC
-cmucJ4gCnNgP1rnGF+kKLJ2Aefjz8SSwaCZhEIi97vrMsJEx5SYwCn0+0n7CXikA
-KRJYQgkPK2vgVzzcpf2P6/zaVfF6TvpklJEOhS2WPGsP2J2yiubcOwSDOpxHhWQW
-DsWJjNoOvpQV+NklKhMeGEflocSWey3AO5jIJe7bvDlokhbSOK9j1lLBHbyxLL3t
-wBhgIxc+itpfyA0ylHy4iM7pl2Ai+tSbFwUhZlKV3pkTx9FXA9CNE/wpJi0KovlX
-LoAV5kYc
-=HOMt
+iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFR4PHGdwZ0BpLWFt
+Lm5leHVzAAoJEA+jNDhdC2ifBJcP/1BmOcA0pDJocJPKl8PuAUugOU1XITpWsxKx
+9ho26xoje2t9kRylJQfNwBX2mhGFnkMbpdOa6wxrBMjKdBxAB5kX9RDleLYCdBCy
+A1fwi5poEDMRU3DjHuulbLGw8tV1aUc70MlyVEV/8EJaPzrEH6PAwic6DKcbu/4U
+dj+i24Yue2NsWxONKfEpjWrEQrresPI8KIEZ7MUIDFRFgz64LiR23iKvhV/VfhLo
+Ekx8tK2hgG79ksmzd30ApslMeOz9aYaj7K850V5xdrNMEoOWQRlZtCpaAUO8Wf++
+HhBbwQVzruKSLu38tfQ9JiXcWjyOkUybp4UB03des9wQM6/UP5xbiPFRaX6Rzvg6
+P6xizDsivfsY6UN755Pwi2+gxxGWsUPtB2igd4WugzAFea6asOI7FQoMSH4ykvD5
+GMJd9C/Kxgdiadn0EylYq28E6eTAJIbBGXtPDmN5ysO+m2iMFVzQPEZo5Vre0n0L
+kUCQuEOZartNuw3KZ3r5d+hiACPYK31OvKNA5Q/IdcLgvOY4Kyki9mLZk91bkJle
+QDNqXhmlSj/UqjjdP53XKG1CwozYk+qS1AR5rdGLx4/OKBw8annV4hiwVdK8w23s
+EbuofEQ9imT8681NVTMSR8WftrkcgdvochtB5oGHkZ9Gu0CS00WOXQmuukbMeNuc
+uPZOw6DE
+=g7Xh
 -----END PGP SIGNATURE-----
