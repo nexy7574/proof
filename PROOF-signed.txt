@@ -75,7 +75,7 @@ You should NEVER trust an account claiming to be me, unless either this SIGNED A
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-10-28 00:54:48
+This document was last updated: 2025-10-28 00:56:48
 This document is valid until:   2026-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -104,18 +104,18 @@ You can find a history of this document here:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFFgPHGdwZ0BpLWFt
-Lm5leHVzAAoJEA+jNDhdC2if++YP/Rhb0Ixf0TRHX/st5xYMTRiAzyiOlqmIwNOY
-4hDTvIXNSon66rCQuoO7vgymzIPC1d45oKVd+39r3jBVn0BjagzKTCDlZEPvlkli
-2eVV5Ls0QJoMoAeOCOXVCIBmmp1Qlao+5WipkO6BMcLyHCHCj/uKRcG09cd6vE17
-LALvrlx9mLi1o/h6tplXy5I3NJ1/zo7Zsm9/xRWe8JVX9GOmWbcnxvOUojRvmy0S
-l9AZV9fzN8VDrvSdeEQpigl39KtTNLLEY5vXKwTCQ1/vK8J1n0tHy1xCLjrrPACY
-AcSTSzF0v7NUPaTVAh2Tt776Paq9XDTVWLIa9ouCA+KzPjrizyc1g2UN95GCLVFd
-3SX+JHVtVxDeCIyGqsX0wpfgtSivqaVIKZ4FIyr4DmcavIoaIg05PZBo+lSfvnoU
-A8Wx6xFcaI37WNy+q5XxzYA4s3W8ApNemvJ7lhHfvuwszyYuu2Y39YTupXCyF+Uj
-gmHkrmntv6jrxdPV9hJO+vkHqb8gAKiVk3nSBEfcZBYkrVTOLb19HyTNCFcWP70r
-wQfP7hXZ32aiuxQaoZ8sfdfa07K3z+bqRhfWQtYZqFrog+utHDyZeQIgA7nu6L8L
-touFkDwy+1Yeay+U+lE8WVN3/6wi54YEJK7yv//TgXXAn9EVUyn/NDhU/XA1k59s
-O4kMeiX2
-=0R99
+iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFNAPHGdwZ0BpLWFt
+Lm5leHVzAAoJEA+jNDhdC2ifqmgQAJQ0x/Y2F8Pqzs+oO36Lf+ku7UFwHjNnctWR
+7f1C4NO9zO2og3aSy7xNIN+w63WHuZujUXydaxh3dkOVPyMG+WGFJAzeDazQFeXn
+odWzdWmX9JiKY0ICiturM83S83EhQiuqWBb08+Q//SaUvU5EUgrLrJACpWtyKxyw
+FuDH1q0G4Gnvl9DufxO1liRAOtNLQ8HK9QHu5bIV280RgWO2dX4QFmQ62tJGCbA3
+qoON6UhkaJtW/EAWOysOAKS0EqyHHdrmYwcicpx4vTTyl4cH8iIzeOeckL3mSpxt
+U8D/8k8vjcTQjaP9cPsXX9Z6wKcZLobE1w3NYJsdMmdvZvn0f+jNEsF8SH6zKvRU
+OdRBbKCPzW9KRW2F+khuWuFaFdpydrsXSDQx6NMJqk0NoXxzHnZLtV/8cMIWMbTH
+tV2L2j578D+iinZjGtoW44573YMEhhK5KOtOVbwFj/oRZgz0l5mGYXl5BgBY73eH
+QngMyI5QH1N+kkYcB5Er2q8sGPwcwkCWNoZzyHT1ZMlem08FFX29dia7+yGWZGU5
+6Ul3ruwqaHsVSDpCSXFlw1aHq+AxC0x/L/8OksYkfVxkzLAt9L7q/yQYawVBbZ/l
+CmtlqVdY+CYNKU9L+KMDiKQNkMS5wn464yjkSs5p+wRU36zx2bJtypYkCM7V1tr8
+Oth/hvNS
+=vTmx
 -----END PGP SIGNATURE-----
