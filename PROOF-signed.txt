@@ -14,9 +14,9 @@ This PGP signed document proves the following (unless - see footer):
   g. timedout.uk
   h. continuwuity.rocks
   j. starstruck.systems
+  k. timedout.fyi
 3. I own the following domains that I do not *plan* to renew:
   c. nexy7574.link - expires 2026-12-19
-  d. i-am-yapp.ing - expires 2026-02-18
 4. I have historically owned, and no longer control (could not find a concrete date for expiration for historical entries):
   a. yourapps.cyou - expired (approximately) 2023-08-18
   b. dragdev.xyz - expired (approximately) 2023-12-09
@@ -26,35 +26,37 @@ This PGP signed document proves the following (unless - see footer):
   f. torrentzworld.com - expired 2025-04-01
   g. 2102x.uk - expired 2025-04-16
   h. nixy7574.co.uk - expired 2025-09-09
-  i. is-piss.ing - expires 2025-10-18
+  i. is-piss.ing - expired 2025-10-18
+  j. i-am-yapp.ing - expired 2026-02-18
 5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication, and signing.
 6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication, and signing.
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
   a. @nex:nexy7574.co.uk
   b. @nex:transgender.ing
   c. @nex:synapse.nexy7574.co.uk
-  d. @nex:harmony.nexy7574.co.uk
-  e. @nex:timedout.uk
-  f. @nex:continuwuity.rocks
-  g. @system:corellia.timedout.uk
-  h. @nex:corellia.timedout.uk
+  d. @nex:continuwuity.rocks
+  e. @nex:hammerhead.nexy7574.co.uk
+  f. @nex:conduit.nexy7574.co.uk
+  g. @nex:dendrite.nexy7574.co.uk
+  h. @nex:tuwunel.nexy7574.co.uk
+  i. @nex:grapevine.nexy7574.co.uk
+  j. @nex:starstruck.systems
 8. I own and control the trusted sessions of the following Matrix accounts (hosted by third parties):
-  a. @nex:envs.net
-  b. @timedout:matrix.org
-  c. @nexy7574:beeper.com
-  d. @nex:calitabby.net
-  e. @timedout:fedora.im
-  f. @nex:continuwuity.org
-  g. @nex:beta.matrix.org
+  a. @timedout:matrix.org
+  b. @nexy7574:beeper.com
+  c. @nex:calitabby.net
+  d. @timedout:fedora.im
+  e. @nex:continuwuity.org
+  f. @nex:beta.matrix.org
+  g. @timedout:federated.nexus
+  h. @system:corellia.timedout.uk
+  i. @nex:corellia.timedout.uk
+  j. @nex:asgard.chat
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @moderator:nexy7574.co.uk
-  b. @nonsensebot:nexy7574.co.uk
-  c. @nonsensebot.staging:nexy7574.co.uk
-  d. @1f440:nexy7574.co.uk
-  e. @sensebot:synapse.nexy7574.co.uk
-  f. @roomsearch:nexy7574.co.uk
-  g. @moderator:timedout.uk
-  h. @modbot.*:corellia.timedout.uk
+  b. @sensebot:synapse.nexy7574.co.uk
+  c. @roomsearch:nexy7574.co.uk
+  d. @modbot.*:corellia.timedout.uk
 10. I own and control the following git accounts: codeberg.org/timedout, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574, forgejo.ellis.link/nex. Additional accounts may not be listed here.
   a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
@@ -75,7 +77,7 @@ You should NEVER trust an account claiming to be me, unless either this SIGNED A
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2025-10-28 00:58:29
+This document was last updated: 2026-03-01 19:45:25
 This document is valid until:   2026-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -104,18 +106,18 @@ You can find a history of this document here:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmkAFTUPHGdwZ0BpLWFt
-Lm5leHVzAAoJEA+jNDhdC2if0GwP/iIHdiLUt7U6fNvaHRcODQYDmKTDUj49aInH
-tJelCISBGV/Z3pqSEkgu29JRlmPEteUX+p/BosEetOemcjdk7tx4BTC9kTwagxE3
-TSOy1FRyFMMEo6crfEPwJrSfGdjh6TZgbERUgjppw2Nnh6liBKUbCsXmgg9l7iaE
-Bg6QKZT9qO75Ri0RHDEZdkepomINJEoS/GTireJGTPd1aHK1FjIGz8JbtNFFPtKw
-si6q2UGZFa4Td5+Zl6Ize8SjL0rC87NfdWm8tQroWEXKTnkSVc8HYJHWLNjrgD8z
-SxGVtzA2E+W/1oUo+X8zMmIE5IW0lj/HUrIyhHTe2+iy6XZGn0AbRd7b68UuSy7w
-zT3itnXjX9ejoOJodaqlqbsSMqJgLfyTisy28oTgxO4ivuycd6Vr+8TWZDusWJfZ
-WGA1Kc+bab22Z8Lty1TRPK4Dx7CUvoa9xUpkM8e8CIJOIeCHCyD2fXkwifdsaGJw
-dMcvbUHwANdDModYOM4/RHcFKy9avVv5y1d0OwjP55fuEa0Jrf/VIjV7Zqpyxue0
-jlbVurQGQYCoCxOK388F7Oc4RXlt7XmE607CdVVcGohEHBd+fyBJ7gf5GcBFwt2V
-hV4maDw7X12B9CmgC16TeGMYtKyjpfdQiSESx7HRzTU7kZWsIGVE7rg6o53UIsrA
-NQxm/Ley
-=5n1/
+iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmmkl1UPHGdwZ0BpLWFt
+Lm5leHVzAAoJEA+jNDhdC2ifstwP/0fhpkoAhTAEeWlForbB407x6N6tS+xGCrZy
+5qsMylhTnZEoAYipSZO1f+hJ1HGydFPcVM3VrqceU6ZBeqQmMgHANWGRtRru4VOg
+GksFwG8jMyq/8OlpWERM0Q0/+yOwZYhzK37fFD8jR2NhOBbNbTfnVLO1vCKKa3ep
+zMpyzwtogZLVuBM38y6dEDgoYkPqTRdY0xi6QYPuvF9zLnS/PZCdOx37yfvAXE2t
+wQxFBws5mTqTFx3a04U+55ouUavNQmTG/YxqFmUsKExjPRYDEnoIXe9sKliyuseS
+LIB3Wt0w4DAOdzGxKmAxqP6VXg+N125PV5GDK8DVtbuaoi4hhvgxALB548CU+/np
+LRhp8+Q+6/y/vZ0nsx29buxMuiSWWwpQKYX+C+Bp/lcz4sTZXIe4XG+mbLz+jbqq
+NKmiHDRPBa3PkLpY+xirXdfA0Ks/blAsRTKFE1uL6aEOJ6AoTqpVzyASk1NJBcO3
+k5nNsB+gm5yiYAlckTgfGcjznaQ0F9M7cST/aZF28rnZO+cnjAbTLf12YRKpQiec
+As4ZqvzqggSQpj0uc8ZAobO07pTPWjZ5H7Dna/d5ww93vx0I3010S9weds/iHEPR
+DxSlgkkSZqSCF86dJx9sZdCszDXpOd9YfG0b9H0FQUVa8QL5nezx14m5fonfOzdb
+8a+nZ2Fs
+=zCa1
 -----END PGP SIGNATURE-----
