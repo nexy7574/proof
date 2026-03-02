@@ -49,6 +49,7 @@ This PGP signed document proves the following (unless - see footer):
   h. @system:corellia.timedout.uk
   i. @nex:corellia.timedout.uk
   j. @nex:asgard.chat
+  k. @nex:unredacted.org
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @moderator:nexy7574.co.uk
   b. @sensebot:synapse.nexy7574.co.uk
