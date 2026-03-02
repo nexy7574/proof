@@ -52,6 +52,7 @@ This PGP signed document proves the following (unless - see footer):
   h. @system:corellia.timedout.uk
   i. @nex:corellia.timedout.uk
   j. @nex:asgard.chat
+  k. @nex:unredacted.org
 9. I operate and am responsible for the security of the following automated Matrix accounts:
   a. @moderator:nexy7574.co.uk
   b. @sensebot:synapse.nexy7574.co.uk
@@ -77,7 +78,7 @@ You should NEVER trust an account claiming to be me, unless either this SIGNED A
 produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
-This document was last updated: 2026-03-01 19:45:25
+This document was last updated: 2026-03-02 18:11:14
 This document is valid until:   2026-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
@@ -106,18 +107,18 @@ You can find a history of this document here:
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmmkl1UPHGdwZ0BpLWFt
-Lm5leHVzAAoJEA+jNDhdC2ifstwP/0fhpkoAhTAEeWlForbB407x6N6tS+xGCrZy
-5qsMylhTnZEoAYipSZO1f+hJ1HGydFPcVM3VrqceU6ZBeqQmMgHANWGRtRru4VOg
-GksFwG8jMyq/8OlpWERM0Q0/+yOwZYhzK37fFD8jR2NhOBbNbTfnVLO1vCKKa3ep
-zMpyzwtogZLVuBM38y6dEDgoYkPqTRdY0xi6QYPuvF9zLnS/PZCdOx37yfvAXE2t
-wQxFBws5mTqTFx3a04U+55ouUavNQmTG/YxqFmUsKExjPRYDEnoIXe9sKliyuseS
-LIB3Wt0w4DAOdzGxKmAxqP6VXg+N125PV5GDK8DVtbuaoi4hhvgxALB548CU+/np
-LRhp8+Q+6/y/vZ0nsx29buxMuiSWWwpQKYX+C+Bp/lcz4sTZXIe4XG+mbLz+jbqq
-NKmiHDRPBa3PkLpY+xirXdfA0Ks/blAsRTKFE1uL6aEOJ6AoTqpVzyASk1NJBcO3
-k5nNsB+gm5yiYAlckTgfGcjznaQ0F9M7cST/aZF28rnZO+cnjAbTLf12YRKpQiec
-As4ZqvzqggSQpj0uc8ZAobO07pTPWjZ5H7Dna/d5ww93vx0I3010S9weds/iHEPR
-DxSlgkkSZqSCF86dJx9sZdCszDXpOd9YfG0b9H0FQUVa8QL5nezx14m5fonfOzdb
-8a+nZ2Fs
-=zCa1
+iQJDBAEBCgAtFiEEF453WNru2NZPbheHD6M0OF0LaJ8FAmml0sIPHGdwZ0BpLWFt
+Lm5leHVzAAoJEA+jNDhdC2if/ycP/j8GiZEtJ+VO03Zd6kI69hf7gClwFgUhFIup
+EFvz5mRDzQfZtKzA/F5abcwG7vo6UJV9JkQB0yXWZJjA8iQLdld0UAHV8Lf+lGRy
+Sny2e89R8Awq7v6oEjWlj3arV4H6UWJeUQbyZOrSFTWrbWskROaH4fERp+ahuhJD
+XFDVWmGllzF5eFp7cj1p8tGXi0gGaCsE8Jj+Ex4mEij00aYm3gbhWX4Iarm+tAo/
+nD/8JKHep3zVXtE82fb6iAbg50nV0+smDkuq5Od77REGB4IiTAu3/j88khBek458
+qy0TqbkZoxvwZuuXnlnwWqqtlIUoDI7UF1bHAxJiDpDHWRjmJoxNXuKHh/t9/eyz
+/fpSRly40CCddBMm17/0KoUgZBQSOa8hwXyhQBJCGAMLHa9/lJFN8eq0U77RkEHJ
+NWVkPENwyAdQrM+3KH8hnOyMrrOVxLf+zSIl8LklC7Ya5q+yjQOuzPuz1IdauWii
+56PWF5Zrgn4L2Nd+ri++0rDgRT4+PVV8G04U3iLo9+fxMtMF5c8O9mdxK2MwP2T1
+zMSUwSZmdZj2FjUhQ+1p844MuJJkEcj6WK/aA8zqg146BVd85qUegruTApO06GpS
+0qazTKEIMJSm1Q2uBqQ7Ur9SMDoK82ly/ZGETFGm+h8A7ger35RvwZ+eK80aiQuH
+m8jidN6a
+=SmNK
 -----END PGP SIGNATURE-----
