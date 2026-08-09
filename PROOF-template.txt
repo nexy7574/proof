@@ -25,14 +25,16 @@ This PGP signed document proves the following (unless - see footer):
   h. nixy7574.co.uk - expired 2025-09-09
   i. is-piss.ing - expired 2025-10-18
   j. i-am-yapp.ing - expired 2026-02-18
-5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication, and signing.
-6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication, and signing.
+5. I own and control the private key for the OpenSSH RSA key attached below[1], and use it for the purposes of authentication.
+  a. This key is no longer used for signing as of 2026-08-09.
+6. I own and control the private key for the OpenSSH ED25519 key attached below[2], and use it for the purposes of authentication.
+  a. This key is no longer used for signing as of 2026-08-09.
 7. I own and control the trusted sessions of the following Matrix accounts, and have hardware level access to their data (hosted by my own metal):
   a. @nex:nexy7574.co.uk
   b. @nex:transgender.ing
   c. @nex:synapse.nexy7574.co.uk
   d. @nex:continuwuity.rocks
-  e. @nex:hammerhead.nexy7574.co.uk
+  e. @nex:demo.thefifthfleet.net
   f. @nex:conduit.nexy7574.co.uk
   g. @nex:dendrite.nexy7574.co.uk
   h. @nex:tuwunel.nexy7574.co.uk
@@ -55,10 +57,12 @@ This PGP signed document proves the following (unless - see footer):
   b. @sensebot:synapse.nexy7574.co.uk
   c. @roomsearch:nexy7574.co.uk
   d. @modbot.*:corellia.timedout.uk
-10. I own and control the following git accounts: codeberg.org/timedout, git.gay/nex, git.nexy7574.co.uk/nex, github.com/nexy7574, forgejo.ellis.link/nex. Additional accounts may not be listed here.
-  a. I sign most of my git commits and tags with either this PGP key, or my RSA SSH key (and sometimes my ED25519 key).
+  e. @sensebot:starstruck.systems
+10. I own and control the following git accounts: codeberg.org/timedout, git.gay/nex, git.nexy7574.co.uk/nex, github.com/timedoutuk, forgejo.ellis.link/nex.
+  a. I sign my git commits and tags with the associated PGP key.
      Unsigned commits and tags should be treated with caution (ask me to verify via a secure platform), commits with mismatched signatures should be treated with suspicion.
   b. My codeberg username changed from `nexy7574` to `timedout` on 2025-06-06 22:24 UTC. See: https://codeberg.org/Codeberg-e.V./requests/issues/812#issuecomment-5026491
+  c. My GitHub username changed from `nexy7574` to `timedoutuk` on 2026-04-28 19:00 UTC.
 11. I own and control all of the email addresses under nexy7574.co.uk and i-am.nexus.
 12. I own and control the bluesky (bsky.app) account: @timedout.uk (formerly @nexy7574.co.uk)
 13. I own the fediverse account: @nex@fedi.transgender.ing
@@ -67,7 +71,7 @@ This PGP signed document proves the following (unless - see footer):
 15. I own the following Monero wallet address: 455PQBSo8o6G5X7BsJmk8eNjXsCsoqpjwTou7yt8bQtsSGAWmV2DdG3UYw1wVf4pmZZKhwVegk8RhcvUfGPVe5ne8EZenB6
 16. I own and control the following Virtual Private Servers:
   - cloud3.srv.timedout.uk <128.140.107.126/32> <2a01:4f8:1c1e:a4f6::/64>
-  - corellia.srv.timedout.uk <91.99.140.221/32> <2a01:4f8:c0c:63f0::/64>
+  - sullust.srv.timedout.uk <57.129.133.17/32> <2001:41d0:801:2000::2580/128>
 
 ---------------
 
@@ -76,7 +80,7 @@ produced with a valid PGP or SSH signature. When in doubt, rely on this list.
 
 This document was created:      2025-01-18 00:28:03
 This document was last updated: $date
-This document is valid until:   2026-06-13 (when the associated PGP key expires)
+This document is valid until:   2027-06-13 (when the associated PGP key expires)
 
 This document may be updated sooner if changes are relevant.
 
@@ -89,7 +93,7 @@ NOTE (2025-05-25): My PGP key was renewed yesterday, which was pushed to WKD and
 [2]: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILf4WiyLVNQeCdAB/o8WjV8yH0tw+227gbLbpzNSbVzU
 
 [PGP key]: 178E7758DAEED8D64F6E17870FA334385D0B689F - primarily me@nexy7574.co.uk.
-Please update my PGP via WKD annually, only using the Ubuntu keyserver as a last resort.
+Please update my PGP via WKD annually. Do not trust third party keyservers like the Ubuntu keyserver. I no longer publish my keys there.
 
 ---------------
 
